@@ -1,0 +1,862 @@
+{
+  "affenpinscher": {
+    "origin": "Germany, France",
+    "size": "3 - 6 kg",
+    "temperament": "Stubborn, Curious, Playful, Adventurous, Active, Fun-loving"
+  },
+  "afghan_hound": {
+    "origin": "Afghanistan, Iran, Pakistan",
+    "size": "23 - 27 kg",
+    "temperament": "Aloof, Clownish, Dignified, Independent, Happy"
+  },
+  "african_hunting_dog": {
+    "origin": "Canis",
+    "size": "20 - 30 kg",
+    "temperament": "Wild, Hardworking, Dutiful"
+  },
+  "airedale_terrier": {
+    "origin": "United Kingdom, England",
+    "size": "18 - 29 kg",
+    "temperament": "Outgoing, Friendly, Alert, Confident, Intelligent, Courageous"
+  },
+  "akbash_dog": {
+    "origin": "Karaba",
+    "size": "41 - 54 kg",
+    "temperament": "Loyal, Independent, Intelligent, Brave"
+  },
+  "akita": {
+    "origin": "Unknown",
+    "size": "29 - 52 kg",
+    "temperament": "Docile, Alert, Responsive, Dignified, Composed, Friendly, Receptive, Faithful, Courageous"
+  },
+  "alapaha_blue_blood_bulldog": {
+    "origin": "United",
+    "size": "25 - 41 kg",
+    "temperament": "Loving, Protective, Trainable, Dutiful, Responsible"
+  },
+  "alaskan_husky": {
+    "origin": "The Alaskan husky is a breed of medium-sized working sled dog, developed specifi...",
+    "size": "17 - 23 kg",
+    "temperament": "Friendly, Energetic, Loyal, Gentle, Confident"
+  },
+  "alaskan_malamute": {
+    "origin": "Siberia",
+    "size": "29 - 45 kg",
+    "temperament": "Friendly, Affectionate, Devoted, Loyal, Dignified, Playful"
+  },
+  "american_bulldog": {
+    "origin": "The American Bulldog is a large, muscular breed of mastiff-type dog. Their ances...",
+    "size": "27 - 54 kg",
+    "temperament": "Friendly, Assertive, Energetic, Loyal, Gentle, Confident, Dominant"
+  },
+  "american_bully": {
+    "origin": "Unknown",
+    "size": "14 - 68 kg",
+    "temperament": "Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous"
+  },
+  "american_eskimo_dog": {
+    "origin": "Arctic",
+    "size": "9 - 18 kg",
+    "temperament": "Friendly, Alert, Reserved, Intelligent, Protective"
+  },
+  "american_eskimo_dog_(miniature)": {
+    "origin": "The American Eskimo Dog is a breed of companion dog, originating in Germany. The...",
+    "size": "3 - 5 kg",
+    "temperament": "Friendly, Alert, Reserved, Intelligent, Protective"
+  },
+  "american_foxhound": {
+    "origin": "The American Foxhound is a breed of dog, closely related to the English Foxhound...",
+    "size": "29 - 34 kg",
+    "temperament": "Kind, Sweet-Tempered, Loyal, Independent, Intelligent, Loving"
+  },
+  "american_pit_bull_terrier": {
+    "origin": "England",
+    "size": "14 - 27 kg",
+    "temperament": "Strong Willed, Stubborn, Friendly, Clownish, Affectionate, Loyal, Obedient, Intelligent, Courageous"
+  },
+  "american_staffordshire_terrier": {
+    "origin": "The American Staffordshire Terrier, also known as the AmStaff, is a medium-sized...",
+    "size": "23 - 27 kg",
+    "temperament": "Tenacious, Friendly, Devoted, Loyal, Attentive, Courageous"
+  },
+  "american_water_spaniel": {
+    "origin": "The American Water Spaniel (often abbreviated to AWS) is a breed of spaniel whic...",
+    "size": "11 - 20 kg",
+    "temperament": "Friendly, Energetic, Obedient, Intelligent, Protective, Trainable"
+  },
+  "anatolian_shepherd_dog": {
+    "origin": "The Kangal Shepherd Dog or Turkish Kangal (Turkish: Kangal \u00c7oban K\u00f6pe\u011fi) is a tr...",
+    "size": "36 - 68 kg",
+    "temperament": "Steady, Bold, Independent, Confident, Intelligent, Proud"
+  },
+  "appenzeller_sennenhund": {
+    "origin": "The Appenzeller Sennenhund is a Swiss breed of medium-sized working dog. It orig...",
+    "size": "22 - 25 kg",
+    "temperament": "Reliable, Fearless, Energetic, Lively, Self-assured"
+  },
+  "australian_cattle_dog": {
+    "origin": "The Australian Cattle Dog, or simply Cattle Dog, is a breed of herding dog devel...",
+    "size": "20 - 28 kg",
+    "temperament": "Cautious, Energetic, Loyal, Obedient, Protective, Brave"
+  },
+  "australian_kelpie": {
+    "origin": "The Australian Kelpie, or simply Kelpie, is an Australian sheepdog capable of mu...",
+    "size": "14 - 21 kg",
+    "temperament": "Friendly, Energetic, Alert, Loyal, Intelligent, Eager"
+  },
+  "australian_shepherd": {
+    "origin": "United",
+    "size": "16 - 29 kg",
+    "temperament": "Good-natured, Affectionate, Intelligent, Active, Protective"
+  },
+  "australian_terrier": {
+    "origin": "Great",
+    "size": "6 - 7 kg",
+    "temperament": "Spirited, Alert, Loyal, Companionable, Even Tempered, Courageous"
+  },
+  "azawakh": {
+    "origin": "West",
+    "size": "15 - 25 kg",
+    "temperament": "Aloof, Affectionate, Attentive, Rugged, Fierce, Refined"
+  },
+  "barbet": {
+    "origin": "French",
+    "size": "18 - 29 kg",
+    "temperament": "Obedient, Companionable, Intelligent, Joyful"
+  },
+  "basenji": {
+    "origin": "The Basenji () is a breed of hunting dog created from stock that originated in C...",
+    "size": "10 - 11 kg",
+    "temperament": "Affectionate, Energetic, Alert, Curious, Playful, Intelligent"
+  },
+  "basset_bleu_de_gascogne": {
+    "origin": "The Basset Bleu de Gascogne (French pronunciation: [b\u0251s\u025b bl\u00f8 d\u0259 \u0261as\u02c8k\u0254\u0272]), also ...",
+    "size": "16 - 18 kg",
+    "temperament": "Affectionate, Lively, Agile, Curious, Happy, Active"
+  },
+  "basset_hound": {
+    "origin": "The Basset Hound is a short-legged breed of scent hound. The Basset Hound was de...",
+    "size": "23 - 29 kg",
+    "temperament": "Tenacious, Friendly, Affectionate, Devoted, Sweet-Tempered, Gentle"
+  },
+  "beagle": {
+    "origin": "The Beagle is a small breed of scent hound, similar in appearance to the much la...",
+    "size": "9 - 16 kg",
+    "temperament": "Amiable, Even Tempered, Excitable, Determined, Gentle, Intelligent"
+  },
+  "bearded_collie": {
+    "origin": "The Bearded Collie or Beardie is a British breed of herding dog of collie type. ...",
+    "size": "20 - 25 kg",
+    "temperament": "Self-confidence, Hardy, Lively, Alert, Intelligent, Active"
+  },
+  "beauceron": {
+    "origin": "Beauce",
+    "size": "36 - 50 kg",
+    "temperament": "Fearless, Friendly, Intelligent, Protective, Calm"
+  },
+  "bedlington_terrier": {
+    "origin": "The Bedlington Terrier is a breed of small dog named after the mining town of Be...",
+    "size": "8 - 10 kg",
+    "temperament": "Affectionate, Spirited, Intelligent, Good-tempered"
+  },
+  "belgian_malinois": {
+    "origin": "The Belgian Shepherd (Dutch: Belgische Herder), also known as the Belgian Sheepd...",
+    "size": "18 - 36 kg",
+    "temperament": "Watchful, Alert, Stubborn, Friendly, Confident, Hard-working, Active, Protective"
+  },
+  "belgian_tervuren": {
+    "origin": "The Belgian Shepherd (Dutch: Belgische Herder), also known as the Belgian Sheepd...",
+    "size": "18 - 29 kg",
+    "temperament": "Energetic, Alert, Loyal, Intelligent, Attentive, Protective"
+  },
+  "bernese_mountain_dog": {
+    "origin": "German",
+    "size": "29 - 54 kg",
+    "temperament": "Affectionate, Loyal, Intelligent, Faithful"
+  },
+  "bichon_frise": {
+    "origin": "Middle",
+    "size": "5 - 8 kg",
+    "temperament": "Feisty, Affectionate, Cheerful, Playful, Gentle, Sensitive"
+  },
+  "black_and_tan_coonhound": {
+    "origin": "The Black and Tan Coonhound is a breed of hunting dog.  Developed in the United ...",
+    "size": "29 - 45 kg",
+    "temperament": "Easygoing, Gentle, Adaptable, Trusting, Even Tempered, Lovable"
+  },
+  "bloodhound": {
+    "origin": "Unknown",
+    "size": "36 - 50 kg",
+    "temperament": "Stubborn, Affectionate, Gentle, Even Tempered"
+  },
+  "bluetick_coonhound": {
+    "origin": "The Bluetick Coonhound is a breed of coonhound originating in the United States....",
+    "size": "20 - 36 kg",
+    "temperament": "Friendly, Intelligent, Active"
+  },
+  "boerboel": {
+    "origin": "The Boerboel (pronounced [\u02c8bu\u02d0rbul]) is a South African breed of large dog of ma...",
+    "size": "50 - 91 kg",
+    "temperament": "Obedient, Confident, Intelligent, Dominant, Territorial"
+  },
+  "border_collie": {
+    "origin": "The Border Collie is a British breed of herding dog of the collie type of medium...",
+    "size": "14 - 20 kg",
+    "temperament": "Tenacious, Keen, Energetic, Responsive, Alert, Intelligent"
+  },
+  "border_terrier": {
+    "origin": "The Border Terrier is a British breed of small, rough-coated terrier. It origina...",
+    "size": "5 - 7 kg",
+    "temperament": "Fearless, Affectionate, Alert, Obedient, Intelligent, Even Tempered"
+  },
+  "boston_terrier": {
+    "origin": "The Boston Terrier is a breed of dog originating in the United States of America...",
+    "size": "5 - 11 kg",
+    "temperament": "Friendly, Lively, Intelligent"
+  },
+  "bouvier_des_flandres": {
+    "origin": "The Bouvier des Flandres is a herding dog breed originating in Flanders, Belgium...",
+    "size": "32 - 50 kg",
+    "temperament": "Protective, Loyal, Gentle, Intelligent, Familial, Rational"
+  },
+  "boxer": {
+    "origin": "Unknown",
+    "size": "23 - 32 kg",
+    "temperament": "Devoted, Fearless, Friendly, Cheerful, Energetic, Loyal, Playful, Confident, Intelligent, Bright, Brave, Calm"
+  },
+  "boykin_spaniel": {
+    "origin": "The Boykin Spaniel is a medium-sized breed of dog, a Spaniel bred for hunting wi...",
+    "size": "11 - 18 kg",
+    "temperament": "Friendly, Energetic, Companionable, Intelligent, Eager, Trainable"
+  },
+  "bracco_italiano": {
+    "origin": "The Bracco Italiano is an Italian breed of pointing dog.\n\n\n== History ==\nThe fir...",
+    "size": "25 - 40 kg",
+    "temperament": "Stubborn, Affectionate, Loyal, Playful, Companionable, Trainable"
+  },
+  "briard": {
+    "origin": "Unknown",
+    "size": "32 - 41 kg",
+    "temperament": "Fearless, Loyal, Obedient, Intelligent, Faithful, Protective"
+  },
+  "brittany": {
+    "origin": "The Brittany Spaniel or Breton Spaniel (French: \u00c9pagneul Breton) is a French bre...",
+    "size": "14 - 20 kg",
+    "temperament": "Agile, Adaptable, Quick, Intelligent, Attentive, Happy"
+  },
+  "bull_terrier": {
+    "origin": "The Staffordshire Bull Terrier, also called the Staffy or Stafford, is a purebre...",
+    "size": "23 - 32 kg",
+    "temperament": "Trainable, Protective, Sweet-Tempered, Keen, Active"
+  },
+  "bull_terrier_(miniature)": {
+    "origin": "The English Miniature Bull Terrier is a breed with origins in the extinct Englis...",
+    "size": "11 - 15 kg",
+    "temperament": "Trainable, Protective, Sweet-Tempered, Keen, Active, Territorial"
+  },
+  "bullmastiff": {
+    "origin": "The Bullmastiff is an English breed of dog of mastiff type and large size, with ...",
+    "size": "45 - 59 kg",
+    "temperament": "Docile, Reliable, Devoted, Alert, Loyal, Reserved, Loving, Protective, Powerful, Calm, Courageous"
+  },
+  "cairn_terrier": {
+    "origin": "The Cairn Terrier is a terrier breed originating in the Scottish Highlands and r...",
+    "size": "6 - 6 kg",
+    "temperament": "Hardy, Fearless, Assertive, Gay, Intelligent, Active"
+  },
+  "cane_corso": {
+    "origin": "Unknown",
+    "size": "40 - 54 kg",
+    "temperament": "Trainable, Reserved, Stable, Quiet, Even Tempered, Calm"
+  },
+  "cardigan_welsh_corgi": {
+    "origin": "The Cardigan Welsh corgi (; Welsh for \"dwarf dog\") is one of two different varie...",
+    "size": "11 - 17 kg",
+    "temperament": "Affectionate, Devoted, Alert, Companionable, Intelligent, Active"
+  },
+  "catahoula_leopard_dog": {
+    "origin": "The Catahoula Leopard Dog is an American dog breed named after Catahoula Parish,...",
+    "size": "23 - 43 kg",
+    "temperament": "Energetic, Inquisitive, Independent, Gentle, Intelligent, Loving"
+  },
+  "caucasian_shepherd_(ovcharka)": {
+    "origin": "The Caucasian Shepherd Dog or Caucasian Ovcharka is a large livestock guardian d...",
+    "size": "36 - 45 kg",
+    "temperament": "Alert, Quick, Dominant, Powerful, Calm, Strong"
+  },
+  "cavalier_king_charles_spaniel": {
+    "origin": "The Cavalier King Charles Spaniel (CKCS) is a British breed of toy dog of spanie...",
+    "size": "6 - 8 kg",
+    "temperament": "Fearless, Affectionate, Sociable, Patient, Playful, Adaptable"
+  },
+  "chesapeake_bay_retriever": {
+    "origin": "The Chesapeake Bay Retriever is a large breed of dog belonging to the retriever,...",
+    "size": "25 - 36 kg",
+    "temperament": "Affectionate, Intelligent, Quiet, Dominant, Happy, Protective"
+  },
+  "chinese_crested": {
+    "origin": "The Chinese Crested Dog is a hairless breed of dog. Like most hairless dog breed...",
+    "size": "5 - 6 kg",
+    "temperament": "Affectionate, Sweet-Tempered, Lively, Alert, Playful, Happy"
+  },
+  "chinese_shar-pei": {
+    "origin": "The Shar Pei (Chinese: \u6c99\u76ae; Cantonese Yale: sh\u0101 p\u00e8ih; pinyin: sh\u0101 p\u00ed) is a dog br...",
+    "size": "20 - 27 kg",
+    "temperament": "Suspicious, Affectionate, Devoted, Reserved, Independent, Loving"
+  },
+  "chinook": {
+    "origin": "The Chinook is a breed of sled dog, developed in the state of New Hampshire duri...",
+    "size": "23 - 41 kg",
+    "temperament": "Friendly, Alert, Dignified, Intelligent, Calm"
+  },
+  "chow_chow": {
+    "origin": "Northern",
+    "size": "18 - 32 kg",
+    "temperament": "Aloof, Loyal, Independent, Quiet"
+  },
+  "clumber_spaniel": {
+    "origin": "Clumber",
+    "size": "25 - 39 kg",
+    "temperament": "Affectionate, Loyal, Dignified, Gentle, Calm, Great-hearted"
+  },
+  "cocker_spaniel": {
+    "origin": "The American Cocker Spaniel is a breed of sporting dog. It is a spaniel type dog...",
+    "size": "9 - 14 kg",
+    "temperament": "Trainable, Friendly, Affectionate, Playful, Quiet, Faithful"
+  },
+  "cocker_spaniel_(american)": {
+    "origin": "The American Cocker Spaniel is a breed of sporting dog. It is a spaniel type dog...",
+    "size": "9 - 14 kg",
+    "temperament": "Outgoing, Sociable, Trusting, Joyful, Even Tempered, Merry"
+  },
+  "coton_de_tulear": {
+    "origin": "The Coton de Tul\u00e9ar is a breed of small dog named for the city of Tul\u00e9ar (also k...",
+    "size": "4 - 7 kg",
+    "temperament": "Affectionate, Lively, Playful, Intelligent, Trainable, Vocal"
+  },
+  "dalmatian": {
+    "origin": "The Dalmatian is a breed of dog with a white coat marked with dark-coloured spot...",
+    "size": "23 - 25 kg",
+    "temperament": "Outgoing, Friendly, Energetic, Playful, Sensitive, Intelligent, Active"
+  },
+  "doberman_pinscher": {
+    "origin": "The Dobermann is a German breed of medium-large working dog of pinscher type. It...",
+    "size": "30 - 40 kg",
+    "temperament": "Fearless, Energetic, Alert, Loyal, Obedient, Confident, Intelligent"
+  },
+  "dogo_argentino": {
+    "origin": "The Dogo Argentino (plural Dogos Argentinos) is an Argentine breed of large dog ...",
+    "size": "36 - 45 kg",
+    "temperament": "Friendly, Affectionate, Cheerful, Loyal, Tolerant, Protective"
+  },
+  "dutch_shepherd": {
+    "origin": "The Dutch Shepherd (Dutch: Hollandse Herder) is a herding dog of Dutch origin. T...",
+    "size": "23 - 32 kg",
+    "temperament": "Reliable, Affectionate, Alert, Loyal, Obedient, Trainable"
+  },
+  "english_setter": {
+    "origin": "The English Setter is a medium-size breed of dog. It is part of the setter group...",
+    "size": "20 - 36 kg",
+    "temperament": "Strong Willed, Mischievous, Affectionate, Energetic, Playful, Companionable, Gentle, Hard-working, Intelligent, Eager, People-Oriented"
+  },
+  "english_shepherd": {
+    "origin": "United",
+    "size": "20 - 30 kg",
+    "temperament": "Kind, Energetic, Independent, Adaptable, Intelligent, Bossy"
+  },
+  "english_springer_spaniel": {
+    "origin": "Norfolk",
+    "size": "16 - 23 kg",
+    "temperament": "Affectionate, Cheerful, Alert, Intelligent, Attentive, Active"
+  },
+  "english_toy_spaniel": {
+    "origin": "The King Charles Spaniel (also known as the English Toy Spaniel) is a small dog ...",
+    "size": "4 - 6 kg",
+    "temperament": "Affectionate, Reserved, Playful, Gentle, Happy, Loving"
+  },
+  "english_toy_terrier": {
+    "origin": "Toy dog traditionally refers to a very small dog or a grouping of small and very...",
+    "size": "3 - 4 kg",
+    "temperament": "Stubborn, Alert, Companionable, Intelligent, Cunning, Trainable"
+  },
+  "eurasier": {
+    "origin": "The Eurasier, or Eurasian, is a spitz type breed of dog that originated in Germa...",
+    "size": "18 - 32 kg",
+    "temperament": "Alert, Reserved, Intelligent, Even Tempered, Watchful, Calm"
+  },
+  "field_spaniel": {
+    "origin": "The Field Spaniel is a medium-sized dog breed of spaniel type. They were origina...",
+    "size": "16 - 23 kg",
+    "temperament": "Docile, Cautious, Sociable, Sensitive, Adaptable, Familial"
+  },
+  "finnish_lapphund": {
+    "origin": "Spitz",
+    "size": "15 - 24 kg",
+    "temperament": "Friendly, Keen, Faithful, Calm, Courageous"
+  },
+  "finnish_spitz": {
+    "origin": "The Finnish Spitz (Finnish: suomenpystykorva Finnish pronunciation: [\u02c8suo\u032fmen\u02ccpy...",
+    "size": "10 - 13 kg",
+    "temperament": "Playful, Loyal, Independent, Intelligent, Happy, Vocal"
+  },
+  "french_bulldog": {
+    "origin": "England",
+    "size": "13 kg",
+    "temperament": "Playful, Affectionate, Keen, Sociable, Lively, Alert, Easygoing, Patient, Athletic, Bright"
+  },
+  "german_pinscher": {
+    "origin": "The German Pinscher or Deutscher Pinscher is a German breed of dog in the  Pinsc...",
+    "size": "11 - 20 kg",
+    "temperament": "Spirited, Lively, Intelligent, Loving, Even Tempered, Familial"
+  },
+  "german_shepherd_dog": {
+    "origin": "A sheep dog, sheepdog, shepherd dog or simply shepherd is generally a dog or bre...",
+    "size": "23 - 41 kg",
+    "temperament": "Alert, Loyal, Obedient, Curious, Confident, Intelligent, Watchful, Courageous"
+  },
+  "german_shorthaired_pointer": {
+    "origin": "The German Shorthaired Pointer or Deutsch Kurzhaar is a German breed of continen...",
+    "size": "20 - 32 kg",
+    "temperament": "Boisterous, Bold, Affectionate, Intelligent, Cooperative, Trainable"
+  },
+  "giant_schnauzer": {
+    "origin": "The Giant Schnauzer or Riesenschnauzer is a German breed of dog of Schnauzer typ...",
+    "size": "29 - 41 kg",
+    "temperament": "Strong Willed, Kind, Loyal, Intelligent, Dominant, Powerful"
+  },
+  "glen_of_imaal_terrier": {
+    "origin": "County",
+    "size": "15 - 18 kg",
+    "temperament": "Spirited, Agile, Loyal, Gentle, Active, Courageous"
+  },
+  "golden_retriever": {
+    "origin": "The Golden Retriever is a Scottish breed of retriever dog of medium size. It is ...",
+    "size": "25 - 34 kg",
+    "temperament": "Intelligent, Kind, Reliable, Friendly, Trustworthy, Confident"
+  },
+  "gordon_setter": {
+    "origin": "The Gordon Setter is a Scottish large breed of dog, a member of the setter famil...",
+    "size": "20 - 36 kg",
+    "temperament": "Fearless, Alert, Loyal, Confident, Gay, Eager"
+  },
+  "great_dane": {
+    "origin": "Unknown",
+    "size": "50 - 86 kg",
+    "temperament": "Friendly, Devoted, Reserved, Gentle, Confident, Loving"
+  },
+  "great_pyrenees": {
+    "origin": "Mast",
+    "size": "39 - 52 kg",
+    "temperament": "Strong Willed, Fearless, Affectionate, Patient, Gentle, Confident"
+  },
+  "greyhound": {
+    "origin": "The English Greyhound, or simply the Greyhound, is a breed of dog, a sighthound ...",
+    "size": "23 - 32 kg",
+    "temperament": "Affectionate, Athletic, Gentle, Intelligent, Quiet, Even Tempered"
+  },
+  "griffon_bruxellois": {
+    "origin": "The Griffon Bruxellois or  Brussels Griffon is a breed of toy dog, named for the...",
+    "size": "5 kg",
+    "temperament": "Self-important, Inquisitive, Alert, Companionable, Sensitive, Watchful"
+  },
+  "harrier": {
+    "origin": "Unknown",
+    "size": "18 - 27 kg",
+    "temperament": "Outgoing, Friendly, Cheerful, Sweet-Tempered, Tolerant, Active"
+  },
+  "havanese": {
+    "origin": "Unknown",
+    "size": "3 - 6 kg",
+    "temperament": "Affectionate, Responsive, Playful, Companionable, Gentle, Intelligent"
+  },
+  "irish_setter": {
+    "origin": "Unknown",
+    "size": "16 - 32 kg",
+    "temperament": "Affectionate, Energetic, Lively, Independent, Playful, Companionable"
+  },
+  "irish_terrier": {
+    "origin": "Ireland",
+    "size": "11 - 12 kg",
+    "temperament": "Respectful, Lively, Intelligent, Dominant, Protective, Trainable"
+  },
+  "irish_wolfhound": {
+    "origin": "The Irish Wolfhound (Irish: C\u00fa Faoil) is a breed of large sighthound that has, b...",
+    "size": "48 - 82 kg",
+    "temperament": "Sweet-Tempered, Loyal, Dignified, Patient, Thoughtful, Generous"
+  },
+  "italian_greyhound": {
+    "origin": "The Italian Greyhound or Italian Sighthound (Italian: piccolo levriero italiano)...",
+    "size": "3 - 7 kg",
+    "temperament": "Mischievous, Affectionate, Agile, Athletic, Companionable, Intelligent"
+  },
+  "japanese_chin": {
+    "origin": "The Japanese Chin (Japanese: \u72c6, chin), also known as the Japanese Spaniel, is a ...",
+    "size": "2 - 4 kg",
+    "temperament": "Alert, Loyal, Independent, Intelligent, Loving, Cat-like"
+  },
+  "japanese_spitz": {
+    "origin": "The Japanese Spitz (\u65e5\u672c\u30b9\u30d4\u30c3\u30c4, Nihon Supittsu; Japanese pronunciation: [n\u02b2ippo\u0274.s\u026f\u0325...",
+    "size": "7 - 9 kg",
+    "temperament": "Affectionate, Obedient, Playful, Companionable, Intelligent, Proud"
+  },
+  "keeshond": {
+    "origin": "The Keeshond ( KAYSS-hond, plur. Keeshonden) is a medium-sized dog with a plush,...",
+    "size": "16 - 20 kg",
+    "temperament": "Agile, Obedient, Playful, Quick, Sturdy, Bright"
+  },
+  "komondor": {
+    "origin": "The Komondor (), also known as the Hungarian sheepdog, is a large, white-coloure...",
+    "size": "36 - 45 kg",
+    "temperament": "Steady, Fearless, Affectionate, Independent, Gentle, Calm"
+  },
+  "kooikerhondje": {
+    "origin": "Dutch",
+    "size": "9 - 14 kg",
+    "temperament": "Benevolent, Agile, Alert, Intelligent, Active, Territorial"
+  },
+  "kuvasz": {
+    "origin": "The Kuvasz is a Hungarian breed of flock guardian dog. Mention of the breed can ...",
+    "size": "32 - 52 kg",
+    "temperament": "Clownish, Loyal, Patient, Independent, Intelligent, Protective"
+  },
+  "labrador_retriever": {
+    "origin": "St",
+    "size": "25 - 36 kg",
+    "temperament": "Kind, Outgoing, Agile, Gentle, Intelligent, Trusting, Even Tempered"
+  },
+  "lagotto_romagnolo": {
+    "origin": "The Lagotto Romagnolo is an Italian breed of dog. It is a traditional breed of t...",
+    "size": "11 - 16 kg",
+    "temperament": "Keen, Loyal, Companionable, Loving, Active, Trainable"
+  },
+  "lancashire_heeler": {
+    "origin": "The Lancashire Heeler is a small breed of dog developed for use as a drover and ...",
+    "size": "3 - 6 kg",
+    "temperament": "Clever, Friendly, Alert, Intelligent"
+  },
+  "leonberger": {
+    "origin": "The Leonberger is a giant dog breed, whose name derives from the city of Leonber...",
+    "size": "54 - 77 kg",
+    "temperament": "Obedient, Fearless, Loyal, Companionable, Adaptable, Loving"
+  },
+  "lhasa_apso": {
+    "origin": "Tibetan",
+    "size": "5 - 8 kg",
+    "temperament": "Steady, Fearless, Friendly, Devoted, Assertive, Spirited, Energetic, Lively, Alert, Obedient, Playful, Intelligent"
+  },
+  "maltese": {
+    "origin": "Italy",
+    "size": "2 - 3 kg",
+    "temperament": "Playful, Docile, Fearless, Affectionate, Sweet-Tempered, Lively, Responsive, Easygoing, Gentle, Intelligent, Active"
+  },
+  "miniature_american_shepherd": {
+    "origin": "The Miniature American Shepherd, frequently abbreviated MAS, is a small herding ...",
+    "size": "9 - 18 kg",
+    "temperament": "Energetic, Loyal, Intelligent, Trainable"
+  },
+  "miniature_pinscher": {
+    "origin": "The Miniature Pinscher or Zwergpinscher is a German breed of small dog of Pinsch...",
+    "size": "4 - 5 kg",
+    "temperament": "Clever, Outgoing, Friendly, Energetic, Responsive, Playful"
+  },
+  "miniature_schnauzer": {
+    "origin": "The Miniature Schnauzer is a German breed of small dog of Schnauzer type. It ori...",
+    "size": "5 - 9 kg",
+    "temperament": "Fearless, Friendly, Spirited, Alert, Obedient, Intelligent"
+  },
+  "newfoundland": {
+    "origin": "Unknown",
+    "size": "45 - 68 kg",
+    "temperament": "Sweet-Tempered, Gentle, Trainable"
+  },
+  "norfolk_terrier": {
+    "origin": "The Norfolk Terrier is a British breed of dog. Prior to gaining recognition as a...",
+    "size": "5 - 5 kg",
+    "temperament": "Self-confidence, Fearless, Spirited, Companionable, Happy, Lovable"
+  },
+  "norwich_terrier": {
+    "origin": "The Norfolk Terrier is a British breed of dog. Prior to gaining recognition as a...",
+    "size": "5 - 5 kg",
+    "temperament": "Hardy, Affectionate, Energetic, Sensitive, Intelligent"
+  },
+  "nova_scotia_duck_tolling_retriever": {
+    "origin": "The Nova Scotia Duck Tolling Retriever is a medium-sized gundog bred primarily f...",
+    "size": "16 - 23 kg",
+    "temperament": "Outgoing, Alert, Patient, Intelligent, Loving"
+  },
+  "old_english_sheepdog": {
+    "origin": "The Old English Sheepdog is a large breed of dog that emerged in England from ea...",
+    "size": "27 - 45 kg",
+    "temperament": "Sociable, Bubbly, Playful, Adaptable, Intelligent, Loving"
+  },
+  "olde_english_bulldogge": {
+    "origin": "The Olde English Bulldogge is an American dog breed, recognized by the United Ke...",
+    "size": "NaN kg",
+    "temperament": "Friendly, Alert, Confident, Loving, Courageous, Strong"
+  },
+  "papillon": {
+    "origin": "The Papillon (French pronunciation: [papij\u0254\u0303], French for 'butterfly[-eared]'), ...",
+    "size": "1 - 5 kg",
+    "temperament": "Hardy, Friendly, Energetic, Alert, Intelligent, Happy"
+  },
+  "pekingese": {
+    "origin": "The Pekingese (also spelled Pekinese) is a breed of toy dog, originating in Chin...",
+    "size": "6 kg",
+    "temperament": "Opinionated, Good-natured, Stubborn, Affectionate, Aggressive, Intelligent"
+  },
+  "pembroke_welsh_corgi": {
+    "origin": "The Pembroke Welsh Corgi (; Welsh for \"dwarf dog\") is a cattle herding dog breed...",
+    "size": "11 - 14 kg",
+    "temperament": "Tenacious, Outgoing, Friendly, Bold, Playful, Protective"
+  },
+  "perro_de_presa_canario": {
+    "origin": "The Presa Canario is a Spanish breed of large-sized dog of mastiff or catch dog ...",
+    "size": "40 - 50 kg",
+    "temperament": "Strong Willed, Suspicious, Gentle, Dominant, Calm"
+  },
+  "pharaoh_hound": {
+    "origin": "The Pharaoh Hound or Kelb tal-Fenek is a Maltese breed of hunting dog. It is tra...",
+    "size": "18 - 27 kg",
+    "temperament": "Affectionate, Sociable, Playful, Intelligent, Active, Trainable"
+  },
+  "plott": {
+    "origin": "Unknown",
+    "size": "18 - 27 kg",
+    "temperament": "Bold, Alert, Loyal, Intelligent"
+  },
+  "pomeranian": {
+    "origin": "The Pomeranian (also known as a Pom, Pommy or Pome) is a breed of dog of the Spi...",
+    "size": "1 - 3 kg",
+    "temperament": "Extroverted, Friendly, Sociable, Playful, Intelligent, Active"
+  },
+  "poodle_(miniature)": {
+    "origin": "The Poodle, called the Pudel in German (German: [\u02c8pu\u02d0dl\u0329] ) and the Caniche in F...",
+    "size": "7 - 8 kg",
+    "temperament": "Information not available"
+  },
+  "poodle_(toy)": {
+    "origin": "The Poodle, called the Pudel in German (German: [\u02c8pu\u02d0dl\u0329] ) and the Caniche in F...",
+    "size": "3 - 4 kg",
+    "temperament": "Information not available"
+  },
+  "pug": {
+    "origin": "Unknown",
+    "size": "6 - 8 kg",
+    "temperament": "Docile, Clever, Charming, Stubborn, Sociable, Playful, Quiet, Attentive"
+  },
+  "puli": {
+    "origin": "Unknown",
+    "size": "11 - 16 kg",
+    "temperament": "Energetic, Agile, Loyal, Obedient, Intelligent, Faithful"
+  },
+  "pumi": {
+    "origin": "Unknown",
+    "size": "8 - 15 kg",
+    "temperament": "Lively, Reserved, Intelligent, Active, Protective, Vocal"
+  },
+  "rat_terrier": {
+    "origin": "The Teddy Roosevelt Terrier is a small to medium-sized American hunting terrier....",
+    "size": "4 - 11 kg",
+    "temperament": "Affectionate, Lively, Inquisitive, Alert, Intelligent, Loving"
+  },
+  "redbone_coonhound": {
+    "origin": "The Redbone Coonhound is an American breed of hunting dog. As a coonhound, the R...",
+    "size": "20 - 36 kg",
+    "temperament": "Affectionate, Energetic, Independent, Companionable, Familial, Unflappable"
+  },
+  "rhodesian_ridgeback": {
+    "origin": "The Rhodesian Ridgeback is a large dog breed originally bred in Southern Africa....",
+    "size": "34 - 36 kg",
+    "temperament": "Strong Willed, Mischievous, Loyal, Dignified, Sensitive, Intelligent"
+  },
+  "rottweiler": {
+    "origin": "The Rottweiler (, UK also , German: [\u02c8\u0281\u0254tva\u026a\u032fl\u0250] ) is a breed of domestic mastif...",
+    "size": "34 - 50 kg",
+    "temperament": "Steady, Good-natured, Fearless, Devoted, Alert, Obedient, Confident, Self-assured, Calm, Courageous"
+  },
+  "russian_toy": {
+    "origin": "English",
+    "size": "1 - 3 kg",
+    "temperament": "Information not available"
+  },
+  "saint_bernard": {
+    "origin": "Western",
+    "size": "59 - 82 kg",
+    "temperament": "Friendly, Lively, Gentle, Watchful, Calm"
+  },
+  "saluki": {
+    "origin": "The Saluki or Arabian hound or Persian hound (Persian:\u0633\u06af \u062a\u0627\u0632\u06cc\u060c Arabic: \u0633\u0644\u0648\u0642\u064a) is...",
+    "size": "16 - 29 kg",
+    "temperament": "Aloof, Reserved, Intelligent, Quiet"
+  },
+  "samoyed": {
+    "origin": "Samoyedic",
+    "size": "23 - 27 kg",
+    "temperament": "Stubborn, Friendly, Sociable, Lively, Alert, Playful"
+  },
+  "schipperke": {
+    "origin": "A Schipperke (; Dutch: [\u02c8sx\u026ap\u0259rk\u0259]) is a small breed of dog that is believed to ...",
+    "size": "5 - 7 kg",
+    "temperament": "Fearless, Agile, Curious, Independent, Confident, Faithful"
+  },
+  "scottish_deerhound": {
+    "origin": "The Scottish Deerhound, or simply the Deerhound, is a breed of large sighthound,...",
+    "size": "32 - 59 kg",
+    "temperament": "Docile, Friendly, Dignified, Gentle"
+  },
+  "scottish_terrier": {
+    "origin": "The Scottish Terrier (Scottish Gaelic: Abhag Albannach; also known as the Aberde...",
+    "size": "8 - 10 kg",
+    "temperament": "Feisty, Alert, Independent, Playful, Quick, Self-assured"
+  },
+  "shetland_sheepdog": {
+    "origin": "The Shetland Sheepdog, also known as the Sheltie, is a breed of herding dog that...",
+    "size": "14 kg",
+    "temperament": "Affectionate, Lively, Responsive, Alert, Loyal, Reserved, Playful, Gentle, Intelligent, Active, Trainable, Strong"
+  },
+  "shiba_inu": {
+    "origin": "Japan",
+    "size": "8 - 10 kg",
+    "temperament": "Charming, Fearless, Keen, Alert, Confident, Faithful"
+  },
+  "shih_tzu": {
+    "origin": "Tibet",
+    "size": "4 - 7 kg",
+    "temperament": "Clever, Spunky, Outgoing, Friendly, Affectionate, Lively, Alert, Loyal, Independent, Playful, Gentle, Intelligent, Happy, Active, Courageous"
+  },
+  "shiloh_shepherd": {
+    "origin": "The German Shepherd, also known in Britain as an Alsatian, is a German breed of ...",
+    "size": "54 - 64 kg",
+    "temperament": "Outgoing, Loyal, Companionable, Gentle, Loving, Trainable"
+  },
+  "siberian_husky": {
+    "origin": "The Siberian Husky is a breed of medium-sized working sled dog. The breed belong...",
+    "size": "16 - 27 kg",
+    "temperament": "Outgoing, Friendly, Alert, Gentle, Intelligent"
+  },
+  "silky_terrier": {
+    "origin": "Great",
+    "size": "4 - 5 kg",
+    "temperament": "Friendly, Responsive, Inquisitive, Alert, Quick, Joyful"
+  },
+  "smooth_fox_terrier": {
+    "origin": "The Smooth Fox Terrier is a breed of dog, one of many terrier breeds. It was the...",
+    "size": "NaN - 8 kg",
+    "temperament": "Fearless, Affectionate, Alert, Playful, Intelligent, Active"
+  },
+  "soft_coated_wheaten_terrier": {
+    "origin": "Ireland",
+    "size": "14 - 18 kg",
+    "temperament": "Affectionate, Spirited, Energetic, Playful, Intelligent, Faithful"
+  },
+  "spanish_water_dog": {
+    "origin": "The Spanish Water Dog or Perro de Agua Espa\u00f1ol is a Spanish breed of water dog. ...",
+    "size": "14 - 23 kg",
+    "temperament": "Trainable, Diligent, Affectionate, Loyal, Athletic, Intelligent"
+  },
+  "spinone_italiano": {
+    "origin": "The Spinone Italiano is an Italian breed of hunting dog, traditionally used for ...",
+    "size": "28 - 39 kg",
+    "temperament": "Docile, Friendly, Affectionate, Loyal, Patient, Gentle"
+  },
+  "staffordshire_bull_terrier": {
+    "origin": "The Staffordshire Bull Terrier, also called the Staffy or Stafford, is a purebre...",
+    "size": "11 - 17 kg",
+    "temperament": "Reliable, Fearless, Bold, Affectionate, Loyal, Intelligent, Courageous"
+  },
+  "standard_schnauzer": {
+    "origin": "German",
+    "size": "14 - 23 kg",
+    "temperament": "Trainable, Good-natured, Devoted, Lively, Playful, Intelligent"
+  },
+  "swedish_vallhund": {
+    "origin": "The Swedish Vallhund, also known as the V\u00e4stg\u00f6taspets and Swedish cow dog, is a ...",
+    "size": "9 - 14 kg",
+    "temperament": "Fearless, Friendly, Energetic, Alert, Intelligent, Watchful"
+  },
+  "thai_ridgeback": {
+    "origin": "Thailand",
+    "size": "16 - 25 kg",
+    "temperament": "Protective, Loyal, Independent, Intelligent, Loving, Familial"
+  },
+  "tibetan_mastiff": {
+    "origin": "The Tibetan Mastiff is a large Tibetan dog breed. Its double coat is medium to l...",
+    "size": "39 - 64 kg",
+    "temperament": "Strong Willed, Tenacious, Aloof, Stubborn, Intelligent, Protective"
+  },
+  "tibetan_spaniel": {
+    "origin": "The Tibetan Spaniel is a breed of assertive, small dogs originating in Tibet. Th...",
+    "size": "4 - 7 kg",
+    "temperament": "Willful, Aloof, Assertive, Independent, Playful, Intelligent, Happy"
+  },
+  "tibetan_terrier": {
+    "origin": "The Tibetan Terrier is a medium-sized breed of dog that originated in Tibet. Des...",
+    "size": "9 - 11 kg",
+    "temperament": "Affectionate, Energetic, Amiable, Reserved, Gentle, Sensitive"
+  },
+  "toy_fox_terrier": {
+    "origin": "The Toy Fox Terrier is a small terrier breed of dog, directly descended from the...",
+    "size": "2 - 4 kg",
+    "temperament": "Friendly, Spirited, Alert, Loyal, Playful, Intelligent"
+  },
+  "treeing_walker_coonhound": {
+    "origin": "English",
+    "size": "20 - 36 kg",
+    "temperament": "Clever, Affectionate, Confident, Intelligent, Loving, Trainable"
+  },
+  "vizsla": {
+    "origin": "Hungary",
+    "size": "23 - 29 kg",
+    "temperament": "Affectionate, Energetic, Loyal, Gentle, Quiet"
+  },
+  "weimaraner": {
+    "origin": "The Weimaraner is a German breed of hunting dog of medium to large size, with hi...",
+    "size": "25 - 41 kg",
+    "temperament": "Steady, Aloof, Stubborn, Energetic, Alert, Intelligent, Powerful, Fast"
+  },
+  "welsh_springer_spaniel": {
+    "origin": "The Welsh Springer Spaniel (Welsh: Llamgi Cymru or Tarfgi Cymru) is a breed of d...",
+    "size": "16 - 25 kg",
+    "temperament": "Stubborn, Friendly, Affectionate, Loyal, Playful, Active"
+  },
+  "west_highland_white_terrier": {
+    "origin": "The West Highland White Terrier (commonly shortened to Westie) is a Scottish dog...",
+    "size": "7 - 10 kg",
+    "temperament": "Hardy, Friendly, Alert, Independent, Gay, Active, Courageous"
+  },
+  "whippet": {
+    "origin": "Unknown",
+    "size": "11 - 16 kg",
+    "temperament": "Friendly, Affectionate, Lively, Gentle, Intelligent, Quiet"
+  },
+  "white_shepherd": {
+    "origin": "The White Shepherd is a variety of the German Shepherd bred in the United States...",
+    "size": "27 - 39 kg",
+    "temperament": "Self-confidence, Aloof, Fearless, Alert, Companionable, Eager"
+  },
+  "wire_fox_terrier": {
+    "origin": "England",
+    "size": "7 - 9 kg",
+    "temperament": "Fearless, Friendly, Bold, Keen, Alert, Quick"
+  },
+  "wirehaired_pointing_griffon": {
+    "origin": "The Wirehaired Pointing Griffon (also called the Korthals  Griffon and the Griff...",
+    "size": "20 - 32 kg",
+    "temperament": "Loyal, Gentle, Vigilant, Trainable, Proud"
+  },
+  "wirehaired_vizsla": {
+    "origin": "The Hungarian Wirehaired Vizsla (Hungarian: Dr\u00f3tsz\u0151r\u0171 magyar vizsla) or Hungaria...",
+    "size": "20 - 29 kg",
+    "temperament": "Information not available"
+  },
+  "xoloitzcuintli": {
+    "origin": "The Xoloitzcuintle (or Xoloitzquintle, Xoloitzcuintli, or Xolo) is one of severa...",
+    "size": "4 - 14 kg",
+    "temperament": "Cheerful, Alert, Companionable, Intelligent, Protective, Calm"
+  },
+  "yorkshire_terrier": {
+    "origin": "The Yorkshire Terrier, also known as a Yorkie, is a British breed of toy dog of ...",
+    "size": "2 - 3 kg",
+    "temperament": "Bold, Independent, Confident, Intelligent, Courageous"
+  }
+}
